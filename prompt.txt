@@ -1,0 +1,16 @@
+
+I am teaching web development in my Sigma web development course.
+
+Here are video subtitle chunks containing video title, video number,
+start time in seconds, end time in seconds, and the text spoken:
+
+[{"title":"audio_2","number":"2","start":355,"end":360,"text":"Then I will tell you a bit about CSS, and you will say, yes, I understand that too"},{"title":"audio_1","number":"1","start":315,"end":320,"text":"We will discuss the differences later, but as of now, I have added the CSS again using the link tag"},{"title":"audio_2","number":"2","start":105,"end":110,"text":"css or style"},{"title":"audio_1","number":"1","start":230,"end":235,"text":"Now, when you see the background is red, that\u2019s because of CSS"},{"title":"audio_6","number":"6","start":100,"end":105,"text":"If I add CSS very quickly to this with a class named"}]
+
+---------------------------------
+
+User Question:
+"“Where is CSS Grid explained?”"
+
+Answer the question naturally like a human teacher.
+Tell the user which video and timestamp explains the topic.
+If the question is unrelated to the course, say you can only answer course-related questions.
